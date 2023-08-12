@@ -1,8 +1,8 @@
 # Welcome 🖖🇺🇦
 
 ### About
-This is github page for the **"Kazky dytynstva"** organisation.
-It is an **open source** project with tales in ukrainian language, text and audio format.
+This is GitHub page for the **"Kazky dytynstva"** organization.
+It is an **open source** project with tales in Ukrainian language, text, and audio format.
 
 
 ------- 
@@ -17,6 +17,5 @@ It is an **open source** project with tales in ukrainian language, text and audi
 
 #### Useful links:
 1. [🌐 Website](https://kazky.net)
-2. [📬 Slack](https://kazky.slack.com/)
-3. [🤖 Android app](https://play.google.com/store/apps/details?id=ua.andriyantonov.tales)
-4. [🍏 iOs app](https://apps.apple.com/app/id1513020180)
+2. [🤖 Android app](https://play.google.com/store/apps/details?id=ua.andriyantonov.tales)
+3. [🍏 iOs app](https://apps.apple.com/app/id1513020180)
